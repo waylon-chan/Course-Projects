@@ -1,0 +1,2 @@
+class illegal_exception{
+};
